@@ -1,2 +1,5 @@
 #!/bin/bash
 School
+#!/bin/bash > alx
+echo ALX School >> alx
+echo The school ios open!
